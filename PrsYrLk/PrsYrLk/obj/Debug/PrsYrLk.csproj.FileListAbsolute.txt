@@ -1,0 +1,9 @@
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\bin\Debug\PrsYrLk.exe.config
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\bin\Debug\PrsYrLk.exe
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\bin\Debug\PrsYrLk.pdb
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.csprojResolveAssemblyReference.cache
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.Form1.resources
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.Properties.Resources.resources
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.csproj.GenerateResource.Cache
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.exe
+C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.pdb
