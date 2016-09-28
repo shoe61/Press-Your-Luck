@@ -63,6 +63,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -76,6 +77,132 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bigbucks.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d470.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d500.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d500s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d525.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d530.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d650.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d740.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d750.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d750s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d800.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d900.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1000.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1000s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1100.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1200.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1250.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1300.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1400.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1500.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1500s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1600.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1750.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1750s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1900.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2000.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2000s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2250.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2500.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2500s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2750.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d3000.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d3000s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d3500.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d4000.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d4000s1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wam0.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wam1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wam2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wam3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wam4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wam5.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,0 +1,9 @@
+C:\ContemProLangs\hax\messaround\messaround\bin\Debug\messaround.exe.config
+C:\ContemProLangs\hax\messaround\messaround\bin\Debug\messaround.exe
+C:\ContemProLangs\hax\messaround\messaround\bin\Debug\messaround.pdb
+C:\ContemProLangs\hax\messaround\messaround\obj\Debug\messaround.csprojResolveAssemblyReference.cache
+C:\ContemProLangs\hax\messaround\messaround\obj\Debug\messaround.Form1.resources
+C:\ContemProLangs\hax\messaround\messaround\obj\Debug\messaround.Properties.Resources.resources
+C:\ContemProLangs\hax\messaround\messaround\obj\Debug\messaround.csproj.GenerateResource.Cache
+C:\ContemProLangs\hax\messaround\messaround\obj\Debug\messaround.exe
+C:\ContemProLangs\hax\messaround\messaround\obj\Debug\messaround.pdb

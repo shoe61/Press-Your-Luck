@@ -7,3 +7,12 @@ C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.Properties.Resources.res
 C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.csproj.GenerateResource.Cache
 C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.exe
 C:\ContemProLangs\hax\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.pdb
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\bin\Debug\PrsYrLk.exe.config
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\bin\Debug\PrsYrLk.exe
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\bin\Debug\PrsYrLk.pdb
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.Form1.resources
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.Properties.Resources.resources
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.csproj.GenerateResource.Cache
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.exe
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.pdb
+C:\Press-Your-Luck\PrsYrLk\PrsYrLk\obj\Debug\PrsYrLk.csprojResolveAssemblyReference.cache

@@ -17,6 +17,28 @@ namespace PrsYrLk
             InitializeComponent();
         }
 
+        private void Form1_load(object sender, EventArgs e)
+        {
+            
+           
+        }
+
+        private void pictureBox18_Click(object sender, EventArgs e)
+        {
+            int idx = 0;
+            pictureBox18.Image = imageList1.Images[idx];
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int idx = 0;
+            pictureBox1.Image = imageList1.Images[idx];
+        }
+       
+
+        
+        
+
 
 
        
