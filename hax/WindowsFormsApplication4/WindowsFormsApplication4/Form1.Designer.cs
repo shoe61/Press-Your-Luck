@@ -31,6 +31,9 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.gameBoard = new System.Windows.Forms.GroupBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.pictureBox36 = new System.Windows.Forms.PictureBox();
             this.pictureBox35 = new System.Windows.Forms.PictureBox();
             this.pictureBox34 = new System.Windows.Forms.PictureBox();
@@ -67,11 +70,9 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.tileList = new System.Windows.Forms.ImageList(this.components);
             this.lightList = new System.Windows.Forms.ImageList(this.components);
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.startButton = new System.Windows.Forms.Button();
             this.gameBoard.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox36)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox35)).BeginInit();
@@ -158,6 +159,32 @@
             this.gameBoard.Size = new System.Drawing.Size(911, 705);
             this.gameBoard.TabIndex = 0;
             this.gameBoard.TabStop = false;
+            // 
+            // label2
+            // 
+            this.label2.Location = new System.Drawing.Point(310, 298);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(291, 135);
+            this.label2.TabIndex = 37;
+            this.label2.Text = "label2";
+            // 
+            // label1
+            // 
+            this.label1.Location = new System.Drawing.Point(310, 132);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(291, 135);
+            this.label1.TabIndex = 36;
+            this.label1.Text = "label1";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(322, 593);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(267, 65);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // pictureBox36
             // 
@@ -501,16 +528,6 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(322, 593);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(267, 65);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // tileList
             // 
             this.tileList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("tileList.ImageStream")));
@@ -581,21 +598,17 @@
             this.lightList.Images.SetKeyName(16, "drk17.png");
             this.lightList.Images.SetKeyName(17, "lite.png");
             // 
-            // label1
+            // startButton
             // 
-            this.label1.Location = new System.Drawing.Point(310, 132);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(291, 135);
-            this.label1.TabIndex = 36;
-            this.label1.Text = "label1";
-            // 
-            // label2
-            // 
-            this.label2.Location = new System.Drawing.Point(310, 298);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(291, 135);
-            this.label2.TabIndex = 37;
-            this.label2.Text = "label2";
+            this.startButton.BackColor = System.Drawing.Color.Lime;
+            this.startButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.startButton.ForeColor = System.Drawing.Color.Red;
+            this.startButton.Location = new System.Drawing.Point(13, 31);
+            this.startButton.Name = "startButton";
+            this.startButton.Size = new System.Drawing.Size(116, 87);
+            this.startButton.TabIndex = 1;
+            this.startButton.Text = "START";
+            this.startButton.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
@@ -603,6 +616,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Chocolate;
             this.ClientSize = new System.Drawing.Size(1270, 729);
+            this.Controls.Add(this.startButton);
             this.Controls.Add(this.gameBoard);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -691,6 +705,7 @@
         private System.Windows.Forms.ImageList lightList;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button startButton;
     }
 }
 
